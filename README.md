@@ -26,8 +26,6 @@ A RESTful API for managing insurance policies, built with Java and Spring Boot.
     ├── dto/           # Data transfer objects
     └── exception/     # Custom exceptions & handlers
 
-## 🚀 Getting Started
-*Setup instructions coming soon as development progresses.*
 
-## 📋 Status
-🚧 In active development
+
+
